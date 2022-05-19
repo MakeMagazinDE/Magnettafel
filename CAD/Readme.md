@@ -1,1 +1,1 @@
-Code für SCAD und STL für den Druck
+Code für OpenSCAD und STL für den Druck
