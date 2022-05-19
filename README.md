@@ -5,8 +5,7 @@
 Maker Media GmbH
 *** 
 
-# Magnettafel
-Magnetischer Vielzweck-Testaufbau aus Make 3/22
+# Magnetischer Vielzweck-Testaufbau aus Make 3/22
 
 ### In der Versuchsphase wuchern Testaufbauten aus einzelnen Modulen gerne über den kompletten Arbeitstisch. Der Versuch, die fragilen Konstrukte kurz beiseite zu räumen, resultiert in Fehlern oder gar Kurzschlüssen. Dies kann mit einer magnetischen Testfläche verhindert werden, die sich auch noch einfach zur Seite schieben lässt.
 
